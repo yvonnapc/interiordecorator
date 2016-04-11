@@ -1,6 +1,6 @@
 # _Interior Decorator_
 
-#### An interactive site   | January 6, 2016
+#### An portfolio site for an Interior Decorator   | January 6, 2016
 
 #### By: Yvonna Contreras & Wade Grubbs
 
